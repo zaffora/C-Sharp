@@ -1,0 +1,15 @@
+D:\OneDrive\Documents\Classes\C-Sharp\Chapter01\TopLevelProgram\bin\Debug\net6.0\TopLevelProgram.exe
+D:\OneDrive\Documents\Classes\C-Sharp\Chapter01\TopLevelProgram\bin\Debug\net6.0\TopLevelProgram.deps.json
+D:\OneDrive\Documents\Classes\C-Sharp\Chapter01\TopLevelProgram\bin\Debug\net6.0\TopLevelProgram.runtimeconfig.json
+D:\OneDrive\Documents\Classes\C-Sharp\Chapter01\TopLevelProgram\bin\Debug\net6.0\TopLevelProgram.dll
+D:\OneDrive\Documents\Classes\C-Sharp\Chapter01\TopLevelProgram\bin\Debug\net6.0\ref\TopLevelProgram.dll
+D:\OneDrive\Documents\Classes\C-Sharp\Chapter01\TopLevelProgram\bin\Debug\net6.0\TopLevelProgram.pdb
+D:\OneDrive\Documents\Classes\C-Sharp\Chapter01\TopLevelProgram\obj\Debug\net6.0\TopLevelProgram.csproj.AssemblyReference.cache
+D:\OneDrive\Documents\Classes\C-Sharp\Chapter01\TopLevelProgram\obj\Debug\net6.0\TopLevelProgram.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Documents\Classes\C-Sharp\Chapter01\TopLevelProgram\obj\Debug\net6.0\TopLevelProgram.AssemblyInfoInputs.cache
+D:\OneDrive\Documents\Classes\C-Sharp\Chapter01\TopLevelProgram\obj\Debug\net6.0\TopLevelProgram.AssemblyInfo.cs
+D:\OneDrive\Documents\Classes\C-Sharp\Chapter01\TopLevelProgram\obj\Debug\net6.0\TopLevelProgram.csproj.CoreCompileInputs.cache
+D:\OneDrive\Documents\Classes\C-Sharp\Chapter01\TopLevelProgram\obj\Debug\net6.0\TopLevelProgram.dll
+D:\OneDrive\Documents\Classes\C-Sharp\Chapter01\TopLevelProgram\obj\Debug\net6.0\ref\TopLevelProgram.dll
+D:\OneDrive\Documents\Classes\C-Sharp\Chapter01\TopLevelProgram\obj\Debug\net6.0\TopLevelProgram.pdb
+D:\OneDrive\Documents\Classes\C-Sharp\Chapter01\TopLevelProgram\obj\Debug\net6.0\TopLevelProgram.genruntimeconfig.cache

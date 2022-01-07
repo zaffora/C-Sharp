@@ -1,0 +1,15 @@
+D:\OneDrive\Documents\Classes\C-Sharp\Chapter01\HelloCS\bin\Debug\net6.0\HelloCS.exe
+D:\OneDrive\Documents\Classes\C-Sharp\Chapter01\HelloCS\bin\Debug\net6.0\HelloCS.deps.json
+D:\OneDrive\Documents\Classes\C-Sharp\Chapter01\HelloCS\bin\Debug\net6.0\HelloCS.runtimeconfig.json
+D:\OneDrive\Documents\Classes\C-Sharp\Chapter01\HelloCS\bin\Debug\net6.0\HelloCS.dll
+D:\OneDrive\Documents\Classes\C-Sharp\Chapter01\HelloCS\bin\Debug\net6.0\ref\HelloCS.dll
+D:\OneDrive\Documents\Classes\C-Sharp\Chapter01\HelloCS\bin\Debug\net6.0\HelloCS.pdb
+D:\OneDrive\Documents\Classes\C-Sharp\Chapter01\HelloCS\obj\Debug\net6.0\HelloCS.csproj.AssemblyReference.cache
+D:\OneDrive\Documents\Classes\C-Sharp\Chapter01\HelloCS\obj\Debug\net6.0\HelloCS.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Documents\Classes\C-Sharp\Chapter01\HelloCS\obj\Debug\net6.0\HelloCS.AssemblyInfoInputs.cache
+D:\OneDrive\Documents\Classes\C-Sharp\Chapter01\HelloCS\obj\Debug\net6.0\HelloCS.AssemblyInfo.cs
+D:\OneDrive\Documents\Classes\C-Sharp\Chapter01\HelloCS\obj\Debug\net6.0\HelloCS.csproj.CoreCompileInputs.cache
+D:\OneDrive\Documents\Classes\C-Sharp\Chapter01\HelloCS\obj\Debug\net6.0\HelloCS.dll
+D:\OneDrive\Documents\Classes\C-Sharp\Chapter01\HelloCS\obj\Debug\net6.0\ref\HelloCS.dll
+D:\OneDrive\Documents\Classes\C-Sharp\Chapter01\HelloCS\obj\Debug\net6.0\HelloCS.pdb
+D:\OneDrive\Documents\Classes\C-Sharp\Chapter01\HelloCS\obj\Debug\net6.0\HelloCS.genruntimeconfig.cache
