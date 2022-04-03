@@ -1,0 +1,15 @@
+D:\OneDrive\Documents\Classes\C-Sharp\Chapter03\Ch3\Ch3\bin\Debug\net6.0\Ch3.exe
+D:\OneDrive\Documents\Classes\C-Sharp\Chapter03\Ch3\Ch3\bin\Debug\net6.0\Ch3.deps.json
+D:\OneDrive\Documents\Classes\C-Sharp\Chapter03\Ch3\Ch3\bin\Debug\net6.0\Ch3.runtimeconfig.json
+D:\OneDrive\Documents\Classes\C-Sharp\Chapter03\Ch3\Ch3\bin\Debug\net6.0\Ch3.dll
+D:\OneDrive\Documents\Classes\C-Sharp\Chapter03\Ch3\Ch3\bin\Debug\net6.0\Ch3.pdb
+D:\OneDrive\Documents\Classes\C-Sharp\Chapter03\Ch3\Ch3\obj\Debug\net6.0\Ch3.csproj.AssemblyReference.cache
+D:\OneDrive\Documents\Classes\C-Sharp\Chapter03\Ch3\Ch3\obj\Debug\net6.0\Ch3.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Documents\Classes\C-Sharp\Chapter03\Ch3\Ch3\obj\Debug\net6.0\Ch3.AssemblyInfoInputs.cache
+D:\OneDrive\Documents\Classes\C-Sharp\Chapter03\Ch3\Ch3\obj\Debug\net6.0\Ch3.AssemblyInfo.cs
+D:\OneDrive\Documents\Classes\C-Sharp\Chapter03\Ch3\Ch3\obj\Debug\net6.0\Ch3.csproj.CoreCompileInputs.cache
+D:\OneDrive\Documents\Classes\C-Sharp\Chapter03\Ch3\Ch3\obj\Debug\net6.0\Ch3.dll
+D:\OneDrive\Documents\Classes\C-Sharp\Chapter03\Ch3\Ch3\obj\Debug\net6.0\refint\Ch3.dll
+D:\OneDrive\Documents\Classes\C-Sharp\Chapter03\Ch3\Ch3\obj\Debug\net6.0\Ch3.pdb
+D:\OneDrive\Documents\Classes\C-Sharp\Chapter03\Ch3\Ch3\obj\Debug\net6.0\Ch3.genruntimeconfig.cache
+D:\OneDrive\Documents\Classes\C-Sharp\Chapter03\Ch3\Ch3\obj\Debug\net6.0\ref\Ch3.dll

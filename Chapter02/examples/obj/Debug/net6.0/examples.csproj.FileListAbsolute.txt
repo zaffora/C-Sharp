@@ -1,0 +1,5 @@
+D:\OneDrive\Documents\Classes\C-Sharp\Chapter02\examples\obj\Debug\net6.0\examples.csproj.AssemblyReference.cache
+D:\OneDrive\Documents\Classes\C-Sharp\Chapter02\examples\obj\Debug\net6.0\examples.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Documents\Classes\C-Sharp\Chapter02\examples\obj\Debug\net6.0\examples.AssemblyInfoInputs.cache
+D:\OneDrive\Documents\Classes\C-Sharp\Chapter02\examples\obj\Debug\net6.0\examples.AssemblyInfo.cs
+D:\OneDrive\Documents\Classes\C-Sharp\Chapter02\examples\obj\Debug\net6.0\examples.csproj.CoreCompileInputs.cache
